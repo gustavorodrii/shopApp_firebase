@@ -40,7 +40,7 @@ class _ProductsOverviewPageState extends State<ProductsOverviewPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My Store'),
+        title: const Text('Flutter Store'),
         actions: [
           PopupMenuButton(
             icon: const Icon(Icons.more_vert),
